@@ -1,0 +1,32 @@
+# {FlavorFinder}
+#### {Recipe Discovery Platform}, {April 20, 2025}
+#### By **{Adriel Macharia}**
+
+## Description
+{FlavorFinder is a community-driven recipe platform that helps home cooks discover, save, and share delicious meals with features like AI-powered search, dietary filters, and interactive cooking mode.}
+
+## Setup/Installation Requirements
+* Clone repository: git clone https://github.com/AdrielMacharia/FlavorFinder.git
+* Install dependencies: npm install
+* Configure environment variables
+* Start the app: npm run dev
+
+## Known Bugs
+* Image upload fails in Safari
+* Metric conversion rounding errors
+* Mobile menu sometimes sticks
+
+## Technologies Used
+* Frontend: React, Tailwind CSS
+* Backend: Node.js, Express
+* Database: MongoDB
+* APIs: Spoonacular, Firebase
+
+## Support and contact details
+* Email: adriel@example.com
+* GitHub Issues: https://github.com/AdrielMacharia/FlavorFinder/issues
+
+### License
+* {MIT}
+
+Copyright (c) {year} **{List of contributors or company name}**
